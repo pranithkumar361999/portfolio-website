@@ -57,7 +57,7 @@ p{
     display: grid;
     justify-content: center;
     align-content: center;
-    
+    font-color: white;
     min-height: 10em;
    
 }
